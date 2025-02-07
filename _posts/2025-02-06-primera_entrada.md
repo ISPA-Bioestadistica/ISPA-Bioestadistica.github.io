@@ -3,7 +3,7 @@ title: Estrenamos blog
 date: 2025-02-06 14:25:00 +/-TTTT
 author: Valeria
 categories: [estado, otros]
-tags: [TAG]     # TAG names should always be lowercase
+tags: [tag]     # TAG names should always be lowercase
 ---
 
 
