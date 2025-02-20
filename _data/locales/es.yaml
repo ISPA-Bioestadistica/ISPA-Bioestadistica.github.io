@@ -20,7 +20,7 @@ tabs:
 search:
   hint: Buscar
   cancel: Cancelar
-  no_results: ¡Oops! No se encuentran resultados.
+  no_results: ¡Ui! No se encuentran resultados.
 
 panel:
   lastmod: Actualizado recientemente
@@ -40,10 +40,10 @@ copyright:
     Salvo que se indique explícitamente, las entradas de este blog están licenciadas
     bajo la Creative Commons Attribution 4.0 International (CC BY 4.0) License por el autor.
 
-meta: Hecho con :PLATFORM usando el tema :THEME
+meta: Hecho con :PLATFORM y :THEME
 
 not_found:
-  statement: Lo sentimos, hemos perdido esa URL o apunta a algo que no existe.
+  statement: Lo sentimos, hemos perdido esa URL o redirige a algo que no existe.
 
 notification:
   update_found: Hay una nueva versión de contenido disponible.
@@ -63,7 +63,7 @@ post:
   relate_posts: Lecturas adicionales
   share: Compartir
   button:
-    next: Nuevo
+    next: Siguiente
     previous: Anterior
     copy_code:
       succeed: ¡Copiado!
